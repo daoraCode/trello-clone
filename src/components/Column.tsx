@@ -13,7 +13,7 @@ export const Column = ({
     <ColumnContainer>
       <ColumnTitle>{text}</ColumnTitle>
       {children}
-      <AddNew />
+      {/* <AddNew /> */}
     </ColumnContainer>
   )
 };
